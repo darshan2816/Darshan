@@ -1,0 +1,27 @@
+int main() {
+    char name[50];
+    int age;
+    float weight;
+    float height;
+    char college[100];
+    char usn[20];
+
+ printf("Enter name");
+ scanf("%s",&name);
+ 
+ printf("enter age");
+ scanf("%d",&age);
+ 
+ printf("Enter weight");
+ scanf("%f",&weight);
+ 
+ printf("Enter height");
+ scanf("%f",&height);
+ 
+ printf("college name");
+ scanf("%s",&college);
+ 
+ printf("ente usn number");
+ scanf("%c",&usn);
+ return 0;
+}
