@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main() {
+int a=8,b=8,c;
+c=a+b;
+printf("the c value is:%d",c);
+return 0;
+}
