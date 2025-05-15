@@ -6,9 +6,9 @@ int main() {
 
     
     printf("Enter your name: ");
-    scanf("%s", name);  // This will read a single word (no spaces)
+    scanf("%s", name);
 
-    
+ 
     printf("Enter your age: ");
     scanf("%d", &age:");
     printf("Hello %s, you are %d years old.\n", name, age);
